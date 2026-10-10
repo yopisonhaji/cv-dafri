@@ -1,4 +1,0 @@
-:HL["/cv-dafri/_next/static/chunks/0e1pqm8v9fh30.css","style"]
-2:[["children",{"s":"__PAGE__","h":160}]]
-1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"x5ykutJiiWkGgdAJZnn7T","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
